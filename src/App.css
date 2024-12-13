@@ -1,0 +1,14 @@
+.editor-wrapper {
+  width: 90%;
+  margin: 0 auto;
+}
+
+.editor-wrapper h2 {
+  text-align: center;
+}
+
+@media (min-width: 300px) {
+  .editor-wrapper {
+    width: 70%;
+  }
+}
